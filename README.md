@@ -18,7 +18,7 @@ Este sistema pode ser utilizado por estudantes, profissionais e equipes de traba
 ## Equipe do Projeto 
 • João Silva 
 • Maria Oliveira 
-• Carlos Souza 
+• Carlos Souza
 • Ana Pereira 
 
 

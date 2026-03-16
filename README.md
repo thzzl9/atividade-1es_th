@@ -27,12 +27,11 @@ Este sistema pode ser utilizado por estudantes, profissionais e equipes de traba
  | Linguagem de programação: JavaScript | JavaScript |
  | Banco de dados: PostgreSQL           | PostgreSQL |
  | Interface: HTML e CSS                | HTML e CSS |
- 
-| Categoria                | Tecnologia        |
-|--------------------------|-------------------|
-| Linguagem de Programação | JavaScript        |
-| Banco de Dados           | PostgreSQL        |
-| Interface                | HTML e CSS        |
+
+|--------------------------------------|-------------------|
+| Linguagem de programação: JavaScript | JavaScript        |
+| Banco de dados: PostgreSQL           | PostgreSQL        |
+| Interface: HTML e CSS                | HTML e CSS        |
 
 Observação 
 Este repositório foi criado para fins de aprendizado sobre GitHub e Markdown. 
